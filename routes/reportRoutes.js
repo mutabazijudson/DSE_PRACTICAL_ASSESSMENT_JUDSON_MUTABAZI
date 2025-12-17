@@ -1,6 +1,6 @@
-// ============================================
+
 // routes/reportRoutes.js
-// ============================================
+
 const express = require('express');
 const router = express.Router();
 const { getDailyReport, getMonthlyReport } = require('../controllers/parkingController');

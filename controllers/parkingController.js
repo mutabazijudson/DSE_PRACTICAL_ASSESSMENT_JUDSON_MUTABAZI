@@ -1,7 +1,7 @@
 
-// ============================================
+
 // controllers/parkingController.js
-// ============================================
+
 const db = require('../config/database');
 const { calculateParkingFee } = require('../utils/feeCalculator');
 

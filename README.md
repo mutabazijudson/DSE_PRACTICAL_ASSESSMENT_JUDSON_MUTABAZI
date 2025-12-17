@@ -12,7 +12,7 @@ Content-Type: application/json
 ```json
 {
   "fullname": "Admin Manager",
-  "phone": "0788000000",
+  "phone": "0788534710",
   "password": "admin123",
   "role": "ParkingManager"
 }
@@ -31,8 +31,8 @@ Content-Type: application/json
 **Body (JSON):**
 ```json
 {
-  "fullname": "Jean Claude Mugisha",
-  "phone": "0788111111",
+  "fullname": "Judson MUTABAZI",
+  "phone": "0783936555",
   "password": "driver123",
   "role": "Driver"
 }
@@ -51,7 +51,7 @@ Content-Type: application/json
 **Body (JSON):**
 ```json
 {
-  "phone": "0788000000",
+  "phone": "0788534710",
   "password": "admin123"
 }
 ```
@@ -64,7 +64,7 @@ Content-Type: application/json
   "user": {
     "userId": 1,
     "fullname": "Admin Manager",
-    "phone": "0788000000",
+    "phone": "0788534710",
     "role": "ParkingManager"
   }
 }

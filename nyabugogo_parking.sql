@@ -68,8 +68,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`userId`, `fullname`, `phone`, `password`, `role`, `createdAt`) VALUES
-(2, 'Admin Manager', '0788000000', '$2a$10$ue9nRs86wVlXzwm.RIhkoeNXQlCZ3hyKJbw0WW4NrurDz65bWo6yu', 'ParkingManager', '2025-12-17 09:14:33'),
-(3, 'Jean Claude Mugisha', '0788111111', '$2a$10$VT3wyZwlNW7AKqt3E1V2Me0FIlkIoSpaxHGdQinW0IH2yoj5maKKy', 'Driver', '2025-12-17 09:15:29');
+(2, 'Admin Manager', '0788534710', '$2a$10$ue9nRs86wVlXzwm.RIhkoeNXQlCZ3hyKJbw0WW4NrurDz65bWo6yu', 'ParkingManager', '2025-12-17 09:14:33'),
+(3, 'Judson MUTABAZI', '0783936555', '$2a$10$VT3wyZwlNW7AKqt3E1V2Me0FIlkIoSpaxHGdQinW0IH2yoj5maKKy', 'Driver', '2025-12-17 09:15:29');
 
 -- --------------------------------------------------------
 

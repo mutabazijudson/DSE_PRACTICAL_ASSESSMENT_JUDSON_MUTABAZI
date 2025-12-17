@@ -1,7 +1,7 @@
 
-// ============================================
+
 // controllers/vehicleController.js
-// ============================================
+
 const db = require('../config/database');
 
 const addVehicle = async (req, res) => {

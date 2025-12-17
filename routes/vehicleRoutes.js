@@ -1,6 +1,6 @@
-// ============================================
+
 // routes/vehicleRoutes.js
-// ============================================
+
 const express = require('express');
 const router = express.Router();
 const { addVehicle, getMyVehicles } = require('../controllers/vehicleController');
